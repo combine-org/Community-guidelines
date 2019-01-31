@@ -34,3 +34,8 @@ git@github.com:YOUR-GITHUB-ACCOUNT/Community-guidelines.git my-community-guideli
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+
+## Acknowledgments
+
+Portions of this file were originally borrowed from the [code4lib anti-harassment policy repository](https://github.com/code4lib/code-of-conduct) on GitHub.  Their content is licensed under CC0.  Subsequent modifications were made by COMBINE members as indicated in the GitHub commit history.
+
